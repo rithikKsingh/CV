@@ -1,0 +1,22 @@
+body {
+    background-color: lightgreen;
+  }
+  hr {
+ border-style: none;
+ border-top-style: dotted ;
+ border-color: grey;
+ border-width: 5px;
+    width: 3%;
+  }
+  h1:hover{
+    color:red;
+  }
+  h3{
+    color: magenta;
+  }
+  img:hover{
+    background-color: pink;
+  }
+  a{
+    color: brown;
+  }
